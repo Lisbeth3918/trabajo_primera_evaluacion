@@ -131,3 +131,41 @@ class Ejercicios
         } while (Console.ReadLine()?.Trim().ToLower() == "si");
         Console.Clear(); // Limpiar la pantalla antes de salir de la función
     }
+    //Funcion Factorial
+    public static void Factorial()
+    {
+        do
+        {
+            Console.Clear(); // Limpiar la pantalla
+            Console.Write("Ingrese un número entero positivo: ");
+            string? input = Console.ReadLine();
+            if (!string.IsNullOrEmpty(input) && int.TryParse(input, out int numero))
+            {
+                int factorial = 1;
+                for (int i = 1; i <= numero; i++)
+                {
+                    factorial *= i;
+                }
+                Console.WriteLine($"El factorial de {numero} es {factorial}");
+            }
+            else
+            {
+                Console.WriteLine("Entrada no válida. Por favor, ingrese un número entero positivo.");
+            }
+
+            Console.Write("¿Desea calcular otro factorial? (s/n): ");
+        } while (Console.ReadLine()?.Trim().ToLower() == "s");
+
+        Console.Clear(); // Limpiar la pantalla antes de salir de la función
+    }
+    static double FactorialDe(double numero)
+    {
+        if (numero == 0)
+            return 1;
+        double factorial = 1;
+        for (int i = 1; i <= numero; i++)
+        {
+            factorial *= i;
+        }
+        return factorial;
+    }
