@@ -1,0 +1,14 @@
+C:\Users\User\Documents\Documentos_practica_C#\Trabajo_de_bianca\bin\Debug\net7.0\Trabajo_de_bianca.exe
+C:\Users\User\Documents\Documentos_practica_C#\Trabajo_de_bianca\bin\Debug\net7.0\Trabajo_de_bianca.deps.json
+C:\Users\User\Documents\Documentos_practica_C#\Trabajo_de_bianca\bin\Debug\net7.0\Trabajo_de_bianca.runtimeconfig.json
+C:\Users\User\Documents\Documentos_practica_C#\Trabajo_de_bianca\bin\Debug\net7.0\Trabajo_de_bianca.dll
+C:\Users\User\Documents\Documentos_practica_C#\Trabajo_de_bianca\bin\Debug\net7.0\Trabajo_de_bianca.pdb
+C:\Users\User\Documents\Documentos_practica_C#\Trabajo_de_bianca\obj\Debug\net7.0\Trabajo_de_bianca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Documentos_practica_C#\Trabajo_de_bianca\obj\Debug\net7.0\Trabajo_de_bianca.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Documentos_practica_C#\Trabajo_de_bianca\obj\Debug\net7.0\Trabajo_de_bianca.AssemblyInfo.cs
+C:\Users\User\Documents\Documentos_practica_C#\Trabajo_de_bianca\obj\Debug\net7.0\Trabajo_de_bianca.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Documentos_practica_C#\Trabajo_de_bianca\obj\Debug\net7.0\Trabajo_de_bianca.dll
+C:\Users\User\Documents\Documentos_practica_C#\Trabajo_de_bianca\obj\Debug\net7.0\refint\Trabajo_de_bianca.dll
+C:\Users\User\Documents\Documentos_practica_C#\Trabajo_de_bianca\obj\Debug\net7.0\Trabajo_de_bianca.pdb
+C:\Users\User\Documents\Documentos_practica_C#\Trabajo_de_bianca\obj\Debug\net7.0\Trabajo_de_bianca.genruntimeconfig.cache
+C:\Users\User\Documents\Documentos_practica_C#\Trabajo_de_bianca\obj\Debug\net7.0\ref\Trabajo_de_bianca.dll

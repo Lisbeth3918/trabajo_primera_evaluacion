@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Trabajo_de_bianca/1.0.0": {
+        "runtime": {
+          "Trabajo_de_bianca.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Trabajo_de_bianca/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
