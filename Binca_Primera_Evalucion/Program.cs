@@ -107,3 +107,27 @@ class Ejercicios
         } while (Console.ReadLine()?.Trim().ToLower() == "si");
         Console.Clear(); // Limpiar la pantalla antes de salir de la función
     }
+    //Funcion Tablas
+    public static void Tabla()
+    {
+        do
+        {
+            Console.Clear(); // Limpiar la pantalla
+            Console.Write("Por Favor Ingrese un número: ");
+            string? input = Console.ReadLine();
+            if (!string.IsNullOrEmpty(input) && int.TryParse(input, out int numero))
+            {
+                for (int i = 1; i <= 12; i++)
+                {
+                    Console.WriteLine($"{numero}x{i} = {numero * i}");
+                }
+            }
+            else
+            {
+                Console.WriteLine("caracter incorrecto, favor ingresar otro.");
+            }
+
+            Console.Write("¿Desea ingreasar otro numero para realizar otra operacion? (si/no): ");
+        } while (Console.ReadLine()?.Trim().ToLower() == "si");
+        Console.Clear(); // Limpiar la pantalla antes de salir de la función
+    }
